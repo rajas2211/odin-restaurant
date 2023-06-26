@@ -1,1 +1,3 @@
-console.log('Page Load complete');
+import homepage from './homepage'
+
+homepage()
